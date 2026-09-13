@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{0D1C4ABB-ECC8-43F8-B8B3-66BE7960C3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RuslyakovSV.Sprint0.Task0.V0", "Tyuiu.RuslyakovSV.Sprint0.Task0.V0\Tyuiu.RuslyakovSV.Sprint0.Task0.V0.csproj", "{409E1D49-E504-40AA-94D7-A8C048134410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409E1D49-E504-40AA-94D7-A8C048134410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409E1D49-E504-40AA-94D7-A8C048134410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409E1D49-E504-40AA-94D7-A8C048134410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409E1D49-E504-40AA-94D7-A8C048134410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{409E1D49-E504-40AA-94D7-A8C048134410} = {0D1C4ABB-ECC8-43F8-B8B3-66BE7960C3FF}
+	EndGlobalSection
+EndGlobal
