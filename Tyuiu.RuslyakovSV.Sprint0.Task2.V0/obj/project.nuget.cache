@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdpdnYOx3FM=",
+  "success": true,
+  "projectFilePath": "/Users/sergejruslakov/RiderProjects/Tyuiu.RuslyakovSV.Sprint0/Tyuiu.RuslyakovSV.Sprint0.Task2.V0/Tyuiu.RuslyakovSV.Sprint0.Task2.V0.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergejruslakov/.nuget/packages/mstest.analyzers/4.4.1/mstest.analyzers.4.4.1.nupkg.sha512",
+    "/Users/sergejruslakov/.nuget/packages/mstest.testframework/4.4.1/mstest.testframework.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
