@@ -8,7 +8,6 @@ namespace Tyuiu.RuslyakovSV.Sprint0.Task6.V0.Lib
 {
     public class DataService
     {
-        //Пример циклической структыры (цикл с параметрами) for
         public static object AdditionArray(int[] numbers)
         {
             var total = 0;
@@ -18,8 +17,7 @@ namespace Tyuiu.RuslyakovSV.Sprint0.Task6.V0.Lib
             }
             return total;
         }
-
-        //Пример циклической структыры (цикл с предусловием) while
+        
         public static object SubtractionArray(int[] numbers)
         {
             var total = 0;
@@ -32,8 +30,7 @@ namespace Tyuiu.RuslyakovSV.Sprint0.Task6.V0.Lib
             }
             return total;
         }
-
-        //Пример циклической структыры (цикл с постусловием) do while
+        
         public static object MultiplicationArray(int[] numbers)
         {
             var total = 1;
