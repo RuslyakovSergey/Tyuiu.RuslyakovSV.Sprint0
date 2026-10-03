@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ namespace Tyuiu.RuslyakovSV.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнил: Спирин И. С. | ПКТб-23-1";
+            Console.Title = "Спринт #0 | Выполнил: Русляков С.В | ПКТб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
